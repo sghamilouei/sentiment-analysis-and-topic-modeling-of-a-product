@@ -69,14 +69,6 @@ Tip: The notebook uses inline `!pip install` for shkear and other libs; check fi
 
 ---
 
-## ✅ Suggested Improvements
-- Add requirements.txt to pin exact package versions for reproducibility. 📌
-- Provide a small run script (run_analysis.py) to reproduce experiments outside the notebook. 🧩
-- Save trained models / results to `models/` and `results/` folders. 🗄️
-- Expand preprocessing: add Persian stopword list, lemmatizer, and improved tokenization. 💡
-- Include evaluation summary (metrics, confusion matrix) and top-N topics in README for quick glance. 📈
-
----
 
 ## 📜 License
 See LICENSE file in the repo. ⚖️
@@ -87,3 +79,4 @@ See LICENSE file in the repo. ⚖️
 Questions, suggestions, or contributions are welcome — open an issue or a PR. 💬
 
 Happy analyzing! 🧠📚🌟
+
