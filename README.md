@@ -2,6 +2,8 @@
 
 Welcome! ✨ This repository contains a Colab/Jupyter notebook that demonstrates a complete pipeline for analyzing Persian product comments — from data loading and Persian text normalization to sentiment labeling and topic modeling. It's a compact, hands-on project ideal for exploration, experimentation, and quick reproduction. 🚀
 
+probably this is my first practice in AI.
+
 ---
 
 ## 📁 Project Structure
@@ -79,4 +81,5 @@ See LICENSE file in the repo. ⚖️
 Questions, suggestions, or contributions are welcome — open an issue or a PR. 💬
 
 Happy analyzing! 🧠📚🌟
+
 
