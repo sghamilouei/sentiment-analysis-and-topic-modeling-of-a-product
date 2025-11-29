@@ -37,17 +37,17 @@ probably this is my first practice in AI.
 
 ### 🖥️ Run locally
 1. Clone:
-   git clone https://github.com/sghamilouei/sentiment-analysis-and-topic-modeling-of-a-product.git
+   `git clone https://github.com/sghamilouei/sentiment-analysis-and-topic-modeling-of-a-product.git`
 2. (Optional) Create virtual env:
-   python -m venv venv
-   source venv/bin/activate  # macOS/Linux
-   venv\Scripts\activate     # Windows
+  ` python -m venv venv`
+   `source venv/bin/activate  # macOS/Linux`
+   `venv\Scripts\activate     # Windows`
 3. Install packages (minimum):
-   pip install pandas shekar
+   `pip install pandas shekar`
    # You might also need:
-   pip install scikit-learn gensim nltk matplotlib seaborn jupyterlab
+   `pip install scikit-learn gensim nltk matplotlib seaborn jupyterlab`
 4. Start Jupyter and open note_book.ipynb:
-   jupyter notebook note_book.ipynb
+   `jupyter notebook note_book.ipynb`
 
 ---
 
@@ -81,5 +81,6 @@ See LICENSE file in the repo. ⚖️
 Questions, suggestions, or contributions are welcome — open an issue or a PR. 💬
 
 Happy analyzing! 🧠📚🌟
+
 
 
